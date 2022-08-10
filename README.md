@@ -1,4 +1,4 @@
-# Fetch-Rewards-Data-Analyst-Assessment
+# Fetch Rewards Data Analyst Assessment
 
 #### Hello and welcome to my repository! Here's a quick guide:
 
