@@ -8,6 +8,8 @@
   - Notebook that contains preprocessing steps!
 - [Fetch_DA_SQL_Queries](https://github.com/timothy-wardlow/Fetch-Rewards-Data-Analyst-Assessment/blob/main/Fetch_DA_SQL_Queries.sql)
   - SQL file that contains queries to business questions! 
+- [Fetch_Rewards_ER_Diagram](https://github.com/timothy-wardlow/Fetch-Rewards-Data-Analyst-Assessment/blob/main/Fetch_Rewards_ER_Diagram.pdf)
+  - PDF file that contains a rough entity relationship diagram!
 - [Stakeholder_Email](https://github.com/timothy-wardlow/Fetch-Rewards-Data-Analyst-Assessment/blob/main/Stakeholder_Email.pdf)
   - PDF file that contains an example of communciations to stakeholder!
 
